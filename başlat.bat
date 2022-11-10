@@ -1,6 +1,6 @@
 echo off
-color 0f
+color a
 cls
 :a
-node norw.js
+node bot.js
 goto a
