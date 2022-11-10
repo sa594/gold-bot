@@ -1,10 +1,10 @@
 {
-  "name": "NorwGoldVePremium",
+  "name": "NorwGoldBot",
   "version": "5.0.0",
   "description": "",
-  "main": "norw.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node norw.js"
+    "start": "node bot.js"
   },
   "keywords": [],
   "author": "Norw",
